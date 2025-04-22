@@ -45,13 +45,6 @@ This project is a simple and clean user profile card system built using **React.
 7. **Flexbox Layout**  
    - Center-aligned cards using Tailwind’s `flex`, `flex-col`, `items-center`
 
-### ✨ Optional Enhancements
-
-- **Hover Effects** (`hover:shadow-xl`)  
-- **Smooth Transitions** (`transition-shadow`)  
-- **Typography Styling** (`font-bold`, `text-gray-800`, etc.)
-
----
 
 ## 📂 File Structure
 
@@ -88,15 +81,5 @@ my-app/
    npm run dev
    ```
 
----
 
-## 🙌 Acknowledgements
-
-Inspired by the simplicity of React components and the power of Tailwind CSS. Perfect for beginners practicing props and component styling.
-
----
-
-## 📃 License
-
-This project is licensed under the MIT License.
 
