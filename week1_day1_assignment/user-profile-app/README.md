@@ -5,6 +5,8 @@ This project is a simple and clean user profile card system built using **React.
 ---
 
 ## 📸 Demo
+![Screenshot from 2025-04-22 11-02-18](https://github.com/user-attachments/assets/eb3b3c0e-91df-48bc-9c96-0bb52f5be163)
+![Screenshot from 2025-04-22 11-02-34](https://github.com/user-attachments/assets/4eb4a89d-875e-48db-b747-34558e613e2a)
 
 
 
