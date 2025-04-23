@@ -1,12 +1,30 @@
-# React + Vite
+# React Feedback Form App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple and responsive **feedback form** built with **React** and **Tailwind CSS**. Users can submit their name, email, feedback, and a rating from 1 to 5. It demonstrates essential React concepts such as state management, event handling, controlled components, and form submission.
 
-Currently, two official plugins are available:
+## screenshots
+![form1](https://github.com/user-attachments/assets/d238d75c-bb65-418f-b85b-9829b3cdde1f)
+![form2](https://github.com/user-attachments/assets/49b4aef9-a87e-4f7f-a5d5-14977ce3bfc2)
+![Screenshot from 2025-04-23 12-05-15](https://github.com/user-attachments/assets/c700757b-a064-43fe-9080-f6e06decfeef)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+## 🚀 Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Controlled input fields for name, email, and feedback
+- Radio button group for rating (1 to 5)
+- Submit and reset functionality
+- Tailwind CSS for modern, responsive design
+- Displays a thank-you message after submission
+
+## 🧠 Topics Covered
+
+This project helps reinforce the following React concepts:
+
+- `useState` Hook
+- Handling form events (`onChange`, `onSubmit`)
+- Controlled components in forms
+- Conditionally rendering messages
+- Basic component structure and state management
+- Tailwind CSS for styling
+
+
