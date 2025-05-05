@@ -9,7 +9,7 @@ const NewsLetter = () => {
         src={telygram}
         alt="telygram"
         width="60"
-        className="absolute -top-5 right-5 sm:right-20 md:right-40 lg:right-60"
+        className="absolute top-0  md:right-70 sm:"
       />
 
       <section className="w-full sm:w-[90%] md:w-[80%] lg:w-[70%] mt-5 bg-[#dfdce9] rounded-tl-[80px] rounded-br-[80px] rounded-2xl shadow-md">
