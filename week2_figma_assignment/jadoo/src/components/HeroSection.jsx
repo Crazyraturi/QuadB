@@ -2,8 +2,7 @@ import React from "react";
 
 import girl from "../assets/girl.png";
 import plane from "../assets/plane.png";
-import decore from "../assets/decorate.png";
-import baground from "../assets/baground.png"; 
+import baground from "../assets/baground.png";
 import Navbar from "./Navbar";
 
 const HeroSection = () => {
@@ -28,7 +27,6 @@ const HeroSection = () => {
 
           {/* Heading with decorative background */}
           <div className=" mb-6">
-          
             <h1 className="relative main-head z-10 text-[#181E4B] text-4xl sm:text-5xl lg:text-6xl xl:text-7xl font-extrabold leading-tight">
               Travel, enjoy <br />
               and live a new <br />
@@ -37,24 +35,37 @@ const HeroSection = () => {
           </div>
 
           <div className="text-[#5E6282] text-base sm:text-lg space-y-2 mb-6">
-            <p>Built Wicket longer admire do barton vanity itself do in it.
-            Preferred to sportsmen it engrossed listening. Park gate
-            sell they west hard for the.</p>
+            <p>
+              Built Wicket longer admire do barton vanity itself do in it.
+              Preferred to sportsmen it engrossed listening. Park gate sell they
+              west hard for the.
+            </p>
           </div>
 
           <div className="flex flex-col sm:flex-row items-center gap-6 mt-6 justify-center lg:justify-start">
             <button className="poppins bg-amber-300 px-6 py-3 font-bold text-white rounded">
               Find Out More
             </button>
-            
           </div>
         </div>
 
         {/* Right Section */}
         <div className="relative w-full lg:w-1/2 flex justify-center">
-          <img className="w-[300px] sm:w-[400px] lg:w-[500px] z-10" src={girl} alt="girl" />
-          <img className="absolute top-0 left-10 w-20 sm:w-28" src={plane} alt="plane1" />
-          <img className="absolute top-5 right-5 w-16 sm:w-24 z-0" src={plane} alt="plane2" />
+          <img
+            className="w-[300px] sm:w-[400px] lg:w-[500px] z-10"
+            src={girl}
+            alt="girl"
+          />
+          <img
+            className="absolute top-0 left-10 w-20 sm:w-28"
+            src={plane}
+            alt="plane1"
+          />
+          <img
+            className="absolute top-5 right-5 w-16 sm:w-24 z-0"
+            src={plane}
+            alt="plane2"
+          />
         </div>
       </div>
     </div>
