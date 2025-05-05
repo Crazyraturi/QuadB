@@ -15,7 +15,7 @@ function Navbar() {
       </div>
 
       {/* Hamburger menu - Mobile only */}
-      <div className="md:hidden">
+      <div className="md:hidden mx-5">
         <button onClick={() => setMenuOpen(!menuOpen)}>
           {menuOpen ? <X size={24} /> : <Menu size={24} />}
         </button>
