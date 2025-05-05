@@ -20,7 +20,7 @@ const HeroSection = () => {
       {/* Main hero content */}
       <div className="flex gap-x-40 items-center justify-center relative z-10">
         <div className="hero-left relative">
-          <h5 className="mt-10 poppins font-bold [color:#DF6951] text-2xl">
+          <h5 className="mt-10 poppins font-bold uppercase [color:#DF6951] text-2xl">
             Best Destinations around the world
           </h5>
 
@@ -37,25 +37,25 @@ const HeroSection = () => {
             </h1>
           </div>
 
-          <p className="poppins mt-10 [color:#5E6282] font-bold">
+          <p className="poppins mt-10 [color:#5E6282] ">
             Built Wicket longer admire do barton vanity itself do in it.
           </p>
-          <p className="[color:#5E6282] font-bold">
-            Preferred to sportsmen it engrossed listening.
+          <p className="[color:#5E6282] ">
+            Preferred to sportsmen it engrossed listening. Park gate
           </p>
-          <p className="[color:#5E6282] font-bold">
-            Park gate sell they west hard for the.
+          <p className="[color:#5E6282] ">
+            sell they west hard for the.
           </p>
 
           <div className="mt-10 gap-10 flex items-center">
             <button className="poppins bg-amber-300 px-6 py-3 font-bold text-white rounded">
               Find Out More
             </button>
-            <div className="flex mt-5">
+          <div className="flex mt-5  font-semibold ">
               <img width={"120px"} src={play} alt="play" />
-              <h5 className="poppins mt-7 font-bold [color:#5E6282]">
-                play Demo
-              </h5>
+              <h2 className=" mt-7  [color:#5E6282]">
+                Play Demo
+              </h2>
             </div>
           </div>
         </div>
