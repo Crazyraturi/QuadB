@@ -1,12 +1,5 @@
-# React + Vite
+## learning and implementing redux (state management)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+![Screenshot from 2025-05-08 16-35-31](https://github.com/user-attachments/assets/f480da6f-5656-4ffa-b7b4-1e0f7efbb434)
+![Screenshot from 2025-05-08 16-35-46](https://github.com/user-attachments/assets/85e298d9-6525-402d-8c90-1304c3dd1250)
+![Screenshot from 2025-05-08 16-36-12](https://github.com/user-attachments/assets/3a4874d1-c451-48b2-bd10-f505415f2009)
