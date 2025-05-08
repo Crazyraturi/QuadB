@@ -1,12 +1,11 @@
-# React + Vite
+## figma to react js conversion
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## live link:https://quad-b-ziee.vercel.app/
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## screenshots
+![Screenshot from 2025-05-08 16-44-57](https://github.com/user-attachments/assets/b6d727fc-1ee3-4302-a9d0-19d932289df3)
+![Screenshot from 2025-05-08 16-45-07](https://github.com/user-attachments/assets/8df3d904-a75e-406f-9f04-f5ff5835e386)
+![Screenshot from 2025-05-08 16-45-25](https://github.com/user-attachments/assets/0df84d4c-c128-4a0a-83c9-61910e2a844d)
+![Screenshot from 2025-05-08 16-45-35](https://github.com/user-attachments/assets/6c2ff5c1-ee47-4657-827c-8a698af572cc)
+![Screenshot from 2025-05-08 16-45-41](https://github.com/user-attachments/assets/273750c0-1e4d-4d71-8990-5356f32a5378)
