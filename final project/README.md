@@ -1,4 +1,4 @@
-## Final PRoject
+## Final Project
 
 ## Techstack: React js , HTML , Javascript, GSAP 
 
