@@ -358,3 +358,14 @@ hr {
   
   color: white;
 }
+
+.labs{
+font-weight: bold;
+  background: linear-gradient(90deg, yellow, green);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;}
+
+.portfolio{
+  margin-top: 20px;
+  margin-left: 50px;
+}

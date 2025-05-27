@@ -2,7 +2,8 @@ import React from "react";
 import "./App.css";
 import HeroSection from "./components/HeroSection";
 import Intro from "./components/Intro";
-import FloatingCircle from "./components/Flotingcircle"; // ✅ Make sure to import this
+import FloatingCircle from "./components/Flotingcircle"; 
+import Portfolio from "./components/Portfolio";
 
 const App = () => {
   return (
@@ -10,10 +11,11 @@ const App = () => {
       <div className="page-wrapper">
         <FloatingCircle />
         
-        {/* Overlay Content (both Hero and Intro are on top of background) */}
+       
         <div className="overlay-content">
           <HeroSection />
           <Intro />
+          <Portfolio/>
         </div>
       </div>
     </div>

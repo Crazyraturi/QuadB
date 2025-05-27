@@ -14,7 +14,7 @@ const MotionPathAnimation = () => {
       duration: 10,
       scrollTrigger: {
         trigger: pathRef.current,
-        markers: true,
+        
         start: "top 50%",
         end: "bottom 70% ",
         scrub: 1.5,
